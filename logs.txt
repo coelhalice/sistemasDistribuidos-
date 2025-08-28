@@ -1,0 +1,87 @@
+Menu de Opções:
+1. Cadastrar Aluno(a)
+2. Listar Alunos(as)
+3. Atualizar Aluno(a)
+4. Remover Aluno(a)
+5. Sair
+Escolha uma opção: 1
+Digite o nome do(a) aluno(a): Alice
+Digite o e-mail do(a) aluno(a): alice.coelho@ges.inatel.be
+Digite o curso do(a) aluno(a) (use a sigla, ex: GES): GES
+Aluno(a) Alice cadastrado(a) com sucesso! Matrícula: GES1
+
+Menu de Opções:
+1. Cadastrar Aluno(a)
+2. Listar Alunos(as)
+3. Atualizar Aluno(a)
+4. Remover Aluno(a)
+5. Sair
+Escolha uma opção: 1
+Digite o nome do(a) aluno(a): Vitor
+Digite o e-mail do(a) aluno(a): vitor.tinho@ges.inatel.br
+Digite o curso do(a) aluno(a) (use a sigla, ex: GES): GES
+Aluno(a) Vitor cadastrado(a) com sucesso! Matrícula: GES2
+
+Menu de Opções:
+1. Cadastrar Aluno(a)
+2. Listar Alunos(as)
+3. Atualizar Aluno(a)
+4. Remover Aluno(a)
+5. Sair
+Escolha uma opção: 1
+Digite o nome do(a) aluno(a): Fred
+Digite o e-mail do(a) aluno(a): frederico.rico@gee.inatel.br
+Digite o curso do(a) aluno(a) (use a sigla, ex: GES): GEE
+Aluno(a) Fred cadastrado(a) com sucesso! Matrícula: GEE1
+
+Menu de Opções:
+1. Cadastrar Aluno(a)
+2. Listar Alunos(as)
+3. Atualizar Aluno(a)
+4. Remover Aluno(a)
+5. Sair
+Escolha uma opção: 2
+Nome: Alice, E-mail: alice.coelho@ges.inatel.be, Curso: GES, Matrícula: GES1
+Nome: Vitor, E-mail: vitor.tinho@ges.inatel.br, Curso: GES, Matrícula: GES2
+Nome: Fred, E-mail: frederico.rico@gee.inatel.br, Curso: GEE, Matrícula: GEE1
+
+Menu de Opções:
+1. Cadastrar Aluno(a)
+2. Listar Alunos(as)
+3. Atualizar Aluno(a)
+4. Remover Aluno(a)
+5. Sair
+Escolha uma opção: 3
+Digite o nome do(a) aluno(a) a ser atualizado(a): Alice
+Digite o novo e-mail (ou deixe em branco para manter): alice.coelho@ges.inatel.br
+Digite o novo curso (sigla) (ou deixe em branco para manter): 
+Aluno(a) atualizado(a) com sucesso!
+
+Menu de Opções:
+1. Cadastrar Aluno(a)
+2. Listar Alunos(as)
+3. Atualizar Aluno(a)
+4. Remover Aluno(a)
+5. Sair
+Escolha uma opção: 4
+Digite o nome do(a) aluno(a) a ser removido(a): Fred
+Aluno(a) removido(a) com sucesso!
+
+Menu de Opções:
+1. Cadastrar Aluno(a)
+2. Listar Alunos(as)
+3. Atualizar Aluno(a)
+4. Remover Aluno(a)
+5. Sair
+Escolha uma opção: 2
+Nome: Alice, E-mail: alice.coelho@ges.inatel.br, Curso: GES, Matrícula: GES1
+Nome: Vitor, E-mail: vitor.tinho@ges.inatel.br, Curso: GES, Matrícula: GES2
+
+Menu de Opções:
+1. Cadastrar Aluno(a)
+2. Listar Alunos(as)
+3. Atualizar Aluno(a)
+4. Remover Aluno(a)
+5. Sair
+Escolha uma opção: 5
+Saindo...
